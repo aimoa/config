@@ -1,0 +1,36 @@
+*background: #240024
+*foreground: #ffb7c5
+! Black + DarkGrey
+*color0:  #000000
+*color8:  #444444
+! DarkRed + Red
+*color1:  #c40233
+*color9:  #fa8072
+! DarkGreen + Green
+*color2:  #009f6b
+*color10: #ace1af
+! DarkYellow + Yellow
+*color3:  #ed9121
+*color11: #ffd300
+! DarkBlue + Blue
+*color4:  #3b5998
+*color12: #0087bd
+! DarkMagenta + Magenta
+*color5:  #da70d6
+*color13: #ff99ff
+! DarkCyan + Cyan
+*color6:  #00d4ff
+*color14: #00f4ff
+! LightGrey + White
+*color7:  #c0c0c0
+*color15: #ffffff
+
+! URxvt-----------------
+URxvt.transparent          : true
+URxvt.shading              : 17
+URxvt.scrollBar            : false
+URxvt.font                 : xft:DejaVu Sans Mono for Powerline:size=15
+URxvt.boldFont             : xft:DejaVu Sans Mono for Powerline:bold:size=15
+URxvt.saveLines            : 16384
+URxvt.perl-ext             :
+URxvt.perl-ext-common      :
